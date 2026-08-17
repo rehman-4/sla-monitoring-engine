@@ -35,3 +35,6 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 #cd frontend
 #npm install
 #npm run dev
+
+#cd backend
+#source .venv/bin/activate
